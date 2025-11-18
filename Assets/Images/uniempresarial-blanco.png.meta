@@ -1,0 +1,3406 @@
+fileFormatVersion: 2
+guid: 82326c49e6a051246a6493533be76259
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6998426347418568573
+    second: uniempresarial-blanco_0
+  - first:
+      213: -8956564855842607035
+    second: uniempresarial-blanco_1
+  - first:
+      213: 2719032563395775552
+    second: uniempresarial-blanco_2
+  - first:
+      213: 2002207316054816068
+    second: uniempresarial-blanco_3
+  - first:
+      213: -1118473263104490833
+    second: uniempresarial-blanco_4
+  - first:
+      213: -4688748978736634683
+    second: uniempresarial-blanco_5
+  - first:
+      213: 4053442731878580789
+    second: uniempresarial-blanco_6
+  - first:
+      213: -5072387993134780148
+    second: uniempresarial-blanco_7
+  - first:
+      213: 5910396265530660562
+    second: uniempresarial-blanco_8
+  - first:
+      213: -5312246768715689835
+    second: uniempresarial-blanco_9
+  - first:
+      213: -5978917413729956828
+    second: uniempresarial-blanco_10
+  - first:
+      213: 6286977940596569747
+    second: uniempresarial-blanco_11
+  - first:
+      213: -1691962689175338730
+    second: uniempresarial-blanco_12
+  - first:
+      213: -8484852631264497242
+    second: uniempresarial-blanco_13
+  - first:
+      213: 4325009433397401422
+    second: uniempresarial-blanco_14
+  - first:
+      213: 5355017596973929820
+    second: uniempresarial-blanco_15
+  - first:
+      213: 7836358857594515538
+    second: uniempresarial-blanco_16
+  - first:
+      213: 9153898582016295613
+    second: uniempresarial-blanco_17
+  - first:
+      213: 4700729847093250174
+    second: uniempresarial-blanco_18
+  - first:
+      213: 8089941471880207957
+    second: uniempresarial-blanco_19
+  - first:
+      213: 1843588033787601382
+    second: uniempresarial-blanco_20
+  - first:
+      213: -1416745721610165597
+    second: uniempresarial-blanco_21
+  - first:
+      213: 3453619206889450521
+    second: uniempresarial-blanco_22
+  - first:
+      213: -6056052126793115701
+    second: uniempresarial-blanco_23
+  - first:
+      213: -8439386843694738379
+    second: uniempresarial-blanco_24
+  - first:
+      213: 1438903462715088372
+    second: uniempresarial-blanco_25
+  - first:
+      213: -8205930655711485071
+    second: uniempresarial-blanco_26
+  - first:
+      213: -4590285479674282167
+    second: uniempresarial-blanco_27
+  - first:
+      213: -7399826859085689631
+    second: uniempresarial-blanco_28
+  - first:
+      213: 279653194874872743
+    second: uniempresarial-blanco_29
+  - first:
+      213: -4686366096058026387
+    second: uniempresarial-blanco_30
+  - first:
+      213: 7807657595485003355
+    second: uniempresarial-blanco_31
+  - first:
+      213: -2092342153525151222
+    second: uniempresarial-blanco_32
+  - first:
+      213: -413505405288206949
+    second: uniempresarial-blanco_33
+  - first:
+      213: -1786744468148500719
+    second: uniempresarial-blanco_34
+  - first:
+      213: 236752293121201259
+    second: uniempresarial-blanco_35
+  - first:
+      213: -8935004969138181647
+    second: uniempresarial-blanco_36
+  - first:
+      213: 6960641768297356631
+    second: uniempresarial-blanco_37
+  - first:
+      213: 6125542627053214765
+    second: uniempresarial-blanco_38
+  - first:
+      213: 8998191760979664343
+    second: uniempresarial-blanco_39
+  - first:
+      213: 589969885269395201
+    second: uniempresarial-blanco_40
+  - first:
+      213: 1860744979145861561
+    second: uniempresarial-blanco_41
+  - first:
+      213: -2923193735022173626
+    second: uniempresarial-blanco_42
+  - first:
+      213: 6963033211800381529
+    second: uniempresarial-blanco_43
+  - first:
+      213: -6569356396706594902
+    second: uniempresarial-blanco_44
+  - first:
+      213: 51820783117755551
+    second: uniempresarial-blanco_45
+  - first:
+      213: 3976825599778670188
+    second: uniempresarial-blanco_46
+  - first:
+      213: 5901027493623447488
+    second: uniempresarial-blanco_47
+  - first:
+      213: -3235254866466032499
+    second: uniempresarial-blanco_48
+  - first:
+      213: -2123693179984390722
+    second: uniempresarial-blanco_49
+  - first:
+      213: 849480007122174811
+    second: uniempresarial-blanco_50
+  - first:
+      213: 8723315046453835951
+    second: uniempresarial-blanco_51
+  - first:
+      213: 7301407876087028314
+    second: uniempresarial-blanco_52
+  - first:
+      213: -6890163033675275668
+    second: uniempresarial-blanco_53
+  - first:
+      213: 8699026314004048721
+    second: uniempresarial-blanco_54
+  - first:
+      213: -4252835766942165033
+    second: uniempresarial-blanco_55
+  - first:
+      213: -9183654018596201275
+    second: uniempresarial-blanco_56
+  - first:
+      213: 9046024604405623546
+    second: uniempresarial-blanco_57
+  - first:
+      213: -1044345482741542525
+    second: uniempresarial-blanco_58
+  - first:
+      213: 2603769763950222833
+    second: uniempresarial-blanco_59
+  - first:
+      213: 2523842342877983792
+    second: uniempresarial-blanco_60
+  - first:
+      213: -1334414622262345789
+    second: uniempresarial-blanco_61
+  - first:
+      213: 4714724587386202309
+    second: uniempresarial-blanco_62
+  - first:
+      213: -4902257532608605128
+    second: uniempresarial-blanco_63
+  - first:
+      213: -5995816210201242051
+    second: uniempresarial-blanco_64
+  - first:
+      213: 3258959823510935745
+    second: uniempresarial-blanco_65
+  - first:
+      213: -718767574029889255
+    second: uniempresarial-blanco_66
+  - first:
+      213: -6784085653426236793
+    second: uniempresarial-blanco_67
+  - first:
+      213: -964738546142978028
+    second: uniempresarial-blanco_68
+  - first:
+      213: -6154413730594995556
+    second: uniempresarial-blanco_69
+  - first:
+      213: -5357457629423444074
+    second: uniempresarial-blanco_70
+  - first:
+      213: -6555246018391082048
+    second: uniempresarial-blanco_71
+  - first:
+      213: 5247014019777035209
+    second: uniempresarial-blanco_72
+  - first:
+      213: 165523802945411407
+    second: uniempresarial-blanco_73
+  - first:
+      213: 5186377785831809033
+    second: uniempresarial-blanco_74
+  - first:
+      213: -5769214130665947815
+    second: uniempresarial-blanco_75
+  - first:
+      213: -7637316718611252581
+    second: uniempresarial-blanco_76
+  - first:
+      213: 1117064363029080113
+    second: uniempresarial-blanco_77
+  - first:
+      213: -764449607975484756
+    second: uniempresarial-blanco_78
+  - first:
+      213: 2904155321770263075
+    second: uniempresarial-blanco_79
+  - first:
+      213: 1375322078683677047
+    second: uniempresarial-blanco_80
+  - first:
+      213: -8479374002918544798
+    second: uniempresarial-blanco_81
+  - first:
+      213: -5879153506212554221
+    second: uniempresarial-blanco_82
+  - first:
+      213: -7754209353245818352
+    second: uniempresarial-blanco_83
+  - first:
+      213: 8923394971915269794
+    second: uniempresarial-blanco_84
+  - first:
+      213: 334447499355671197
+    second: uniempresarial-blanco_85
+  - first:
+      213: -3860084683055883791
+    second: uniempresarial-blanco_86
+  - first:
+      213: -1409307961654692027
+    second: uniempresarial-blanco_87
+  - first:
+      213: 457046707984952211
+    second: uniempresarial-blanco_88
+  - first:
+      213: -5150535239886565068
+    second: uniempresarial-blanco_89
+  - first:
+      213: -7619330227688264814
+    second: uniempresarial-blanco_90
+  - first:
+      213: 1638946118361671240
+    second: uniempresarial-blanco_91
+  - first:
+      213: -4246091786806380925
+    second: uniempresarial-blanco_92
+  - first:
+      213: 6421869348882831438
+    second: uniempresarial-blanco_93
+  - first:
+      213: 3072441477413596274
+    second: uniempresarial-blanco_94
+  - first:
+      213: -8037274828149283060
+    second: uniempresarial-blanco_95
+  - first:
+      213: -1995857904502658380
+    second: uniempresarial-blanco_96
+  - first:
+      213: -7578774555731118476
+    second: uniempresarial-blanco_97
+  - first:
+      213: 2072392112279306691
+    second: uniempresarial-blanco_98
+  - first:
+      213: 4793591892178383953
+    second: uniempresarial-blanco_99
+  - first:
+      213: -4923534975894665212
+    second: uniempresarial-blanco_100
+  - first:
+      213: 6643910520103637612
+    second: uniempresarial-blanco_101
+  - first:
+      213: -2948587044743529631
+    second: uniempresarial-blanco_102
+  - first:
+      213: -8903679983909163301
+    second: uniempresarial-blanco_103
+  - first:
+      213: -8911675469848646636
+    second: uniempresarial-blanco_104
+  - first:
+      213: 7980503083610453320
+    second: uniempresarial-blanco_105
+  - first:
+      213: -1100277790891202616
+    second: uniempresarial-blanco_106
+  - first:
+      213: 2199698193546031374
+    second: uniempresarial-blanco_107
+  - first:
+      213: -6554553278452293801
+    second: uniempresarial-blanco_108
+  - first:
+      213: -6585650903186145914
+    second: uniempresarial-blanco_109
+  - first:
+      213: 2747167630910913318
+    second: uniempresarial-blanco_110
+  - first:
+      213: -3584719501421439697
+    second: uniempresarial-blanco_111
+  - first:
+      213: 5378310691132253946
+    second: uniempresarial-blanco_112
+  - first:
+      213: -7860759387001959842
+    second: uniempresarial-blanco_113
+  - first:
+      213: -7247968159223572286
+    second: uniempresarial-blanco_114
+  - first:
+      213: -7566645866794070504
+    second: uniempresarial-blanco_115
+  - first:
+      213: -1327428138260133552
+    second: uniempresarial-blanco_116
+  - first:
+      213: 7062693836371733044
+    second: uniempresarial-blanco_117
+  - first:
+      213: 1374964470013201359
+    second: uniempresarial-blanco_118
+  - first:
+      213: -8749406748142290933
+    second: uniempresarial-blanco_119
+  - first:
+      213: -8709806432722388883
+    second: uniempresarial-blanco_120
+  - first:
+      213: 2765352577398189434
+    second: uniempresarial-blanco_121
+  - first:
+      213: -6368973581951390483
+    second: uniempresarial-blanco_122
+  - first:
+      213: -1422566992391639935
+    second: uniempresarial-blanco_123
+  - first:
+      213: 272460693498217786
+    second: uniempresarial-blanco_124
+  - first:
+      213: 4012822152228948417
+    second: uniempresarial-blanco_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uniempresarial-blanco_0
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 32
+        width: 146
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b167f05890ee90800000000000000
+      internalID: -6998426347418568573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_1
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 330
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f0cfa7b3e3b380800000000000000
+      internalID: -8956564855842607035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_2
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 367
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ccce9d5b1fbb520800000000000000
+      internalID: 2719032563395775552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_3
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 330
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445b22022f449cb10800000000000000
+      internalID: 2002207316054816068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_4
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 367
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa282ed3e726a70f0800000000000000
+      internalID: -1118473263104490833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_5
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 330
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46d6955a73eeeb0800000000000000
+      internalID: -4688748978736634683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_6
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 329
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532030740b8b04830800000000000000
+      internalID: 4053442731878580789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 330
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01be32bef14b99b0800000000000000
+      internalID: -5072387993134780148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_8
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 329
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d610c0c612f50250800000000000000
+      internalID: 5910396265530660562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_9
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 330
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5901c7795bb1746b0800000000000000
+      internalID: -5312246768715689835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_10
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 330
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c8a353a4e960da0800000000000000
+      internalID: -5978917413729956828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_11
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 329
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396b9fb8025df3750800000000000000
+      internalID: 6286977940596569747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_12
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 329
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6114d7a06e0f488e0800000000000000
+      internalID: -1691962689175338730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_13
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 355
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f0fd8c7fbf3a80800000000000000
+      internalID: -8484852631264497242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 376
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e479ddf2a25850c30800000000000000
+      internalID: 4325009433397401422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_15
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d891e128d05a40800000000000000
+      internalID: 5355017596973929820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 178
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2503867bcd650cc60800000000000000
+      internalID: 7836358857594515538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 265
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2880bc24e290f70800000000000000
+      internalID: 9153898582016295613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 265
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78c111f3e85c3140800000000000000
+      internalID: 4700729847093250174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_19
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 180
+        width: 26
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ede1508ee354070800000000000000
+      internalID: 8089941471880207957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_20
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 157
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1221a8c8db59910800000000000000
+      internalID: 1843588033787601382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_21
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 157
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a22f5eb545b65ce0800000000000000
+      internalID: -1416745721610165597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_22
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cac10ee58bdef20800000000000000
+      internalID: 3453619206889450521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 180
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75f315da494fba0800000000000000
+      internalID: -6056052126793115701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_24
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 178
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5345873216641ea80800000000000000
+      internalID: -8439386843694738379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_25
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 180
+        width: 117
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5631631308f310800000000000000
+      internalID: 1438903462715088372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_26
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 156
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17324d6ab8dae1e80800000000000000
+      internalID: -8205930655711485071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_27
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 180
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f71663da70c40c0800000000000000
+      internalID: -4590285479674282167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_28
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 178
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec8dc87da88e4990800000000000000
+      internalID: -7399826859085689631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_29
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 178
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e1dc591781e300800000000000000
+      internalID: 279653194874872743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_30
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 178
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66f6057ddea6feb0800000000000000
+      internalID: -4686366096058026387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_31
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 180
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e93c2673f5a5c60800000000000000
+      internalID: 7807657595485003355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_32
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 180
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abe86a5e186f2e0800000000000000
+      internalID: -2092342153525151222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_33
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 178
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da715560fe24af0800000000000000
+      internalID: -413505405288206949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_34
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 192
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1174d9f6f553437e0800000000000000
+      internalID: -1786744468148500719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_35
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 237
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b649f3bc4fc194300800000000000000
+      internalID: 236752293121201259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_36
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 192
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92b2cf15c700480800000000000000
+      internalID: -8935004969138181647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_37
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 193
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d5c182fca299060800000000000000
+      internalID: 6960641768297356631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 192
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1506909c420550800000000000000
+      internalID: 6125542627053214765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_39
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 193
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd1a0e6bbfffdc70800000000000000
+      internalID: 8998191760979664343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_40
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 192
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10709af1c7eff2800800000000000000
+      internalID: 589969885269395201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_41
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 121
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9a49b23b1b2d910800000000000000
+      internalID: 1860744979145861561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_42
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 121
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422b5629cabe67d0800000000000000
+      internalID: -2923193735022173626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_43
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958eb9c70d9a1a060800000000000000
+      internalID: 6963033211800381529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 95
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaffc53c925f4d4a0800000000000000
+      internalID: -6569356396706594902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_45
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 95
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9467b94aba18b000800000000000000
+      internalID: 51820783117755551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66cc7810d5803730800000000000000
+      internalID: 3976825599778670188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf3d3f8d39a4e150800000000000000
+      internalID: 5901027493623447488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_48
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 95
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84307e07d01a13d0800000000000000
+      internalID: -3235254866466032499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_49
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb55c1bfd402782e0800000000000000
+      internalID: -2123693179984390722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_50
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b534054d095f9cb00800000000000000
+      internalID: 849480007122174811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_51
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 95
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa873bf01d07f0970800000000000000
+      internalID: 8723315046453835951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_52
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a186e57cfc35560800000000000000
+      internalID: 7301407876087028314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_53
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 95
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62e14df9393160a0800000000000000
+      internalID: -6890163033675275668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_54
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bacf9d75629b870800000000000000
+      internalID: 8699026314004048721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_55
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 95
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d716570764eaf4c0800000000000000
+      internalID: -4252835766942165033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_56
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 35
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc1c71c35b1d8080800000000000000
+      internalID: -9183654018596201275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_57
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 35
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6a07237fe98d70800000000000000
+      internalID: 9046024604405623546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_58
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 121
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381186e015db181f0800000000000000
+      internalID: -1044345482741542525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_59
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 121
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdd7211ec2722420800000000000000
+      internalID: 2603769763950222833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_60
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 122
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034f45c2d3d760320800000000000000
+      internalID: 2523842342877983792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_61
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 121
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf37f898f43b7de0800000000000000
+      internalID: -1334414622262345789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_62
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 122
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c864f458011e6140800000000000000
+      internalID: 4714724587386202309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_63
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 121
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83491635fbea7fbb0800000000000000
+      internalID: -4902257532608605128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_64
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 122
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d361d6c8ce49acca0800000000000000
+      internalID: -5995816210201242051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_65
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 121
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c893a951b62a3d20800000000000000
+      internalID: 3258959823510935745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 95
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91111e913bc6606f0800000000000000
+      internalID: -718767574029889255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 95
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78294b5ba061ad1a0800000000000000
+      internalID: -6784085653426236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_68
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 95
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106508576f8c92f0800000000000000
+      internalID: -964738546142978028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_69
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 95
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92491bc151279aa0800000000000000
+      internalID: -6154413730594995556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_70
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 95
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f520bcbac76a5b0800000000000000
+      internalID: -5357457629423444074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_71
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 95
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb718a3a761705a0800000000000000
+      internalID: -6555246018391082048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_72
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 95
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbfd4c737321d840800000000000000
+      internalID: 5247014019777035209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_73
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 95
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49de64950f0c4200800000000000000
+      internalID: 165523802945411407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_74
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 95
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006b7b1e17b9f740800000000000000
+      internalID: 5186377785831809033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_75
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 95
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dfd749052afefa0800000000000000
+      internalID: -5769214130665947815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_76
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 95
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a360e98ecc20690800000000000000
+      internalID: -7637316718611252581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_77
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 95
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138a895ae1c908f00800000000000000
+      internalID: 1117064363029080113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_78
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 95
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24febb1212465f0800000000000000
+      internalID: -764449607975484756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_79
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 95
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3224da6d0e1ad4820800000000000000
+      internalID: 2904155321770263075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_80
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 95
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77141bfc420261310800000000000000
+      internalID: 1375322078683677047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_81
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 95
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aab5e1546335a80800000000000000
+      internalID: -8479374002918544798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_82
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 95
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a5532090d096ea0800000000000000
+      internalID: -5879153506212554221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_83
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 95
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01285c14da3836490800000000000000
+      internalID: -7754209353245818352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_84
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 95
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63483e27446db70800000000000000
+      internalID: 8923394971915269794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_85
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 83
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9acc1b8a3234a400800000000000000
+      internalID: 334447499355671197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_86
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 95
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9178fae693e6ac0800000000000000
+      internalID: -3860084683055883791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_87
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 95
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547317e20e1217ce0800000000000000
+      internalID: -1409307961654692027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_88
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 95
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b64333f81c75600800000000000000
+      internalID: 457046707984952211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_89
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 95
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4311e6fec7f9588b0800000000000000
+      internalID: -5150535239886565068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_90
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 95
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bae30e683b24690800000000000000
+      internalID: -7619330227688264814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_91
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 95
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e3f6afc4beb610800000000000000
+      internalID: 1638946118361671240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_92
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 95
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b3b3440ad215c0800000000000000
+      internalID: -4246091786806380925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_93
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 49
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e485126f5201f1950800000000000000
+      internalID: 6421869348882831438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_94
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 50
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ce966ce3183aa20800000000000000
+      internalID: 3072441477413596274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_95
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 36
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0729f9802dd57090800000000000000
+      internalID: -8037274828149283060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_96
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 49
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baa6f37fc94d44e0800000000000000
+      internalID: -1995857904502658380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_97
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 94
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b0e412b8c2d690800000000000000
+      internalID: -7578774555731118476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_98
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 48
+        width: 639
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1cab765ad92cc10800000000000000
+      internalID: 2072392112279306691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_99
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 42
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1543c7bad62468240800000000000000
+      internalID: 4793591892178383953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_100
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408469286071cabb0800000000000000
+      internalID: -4923534975894665212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_101
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 48
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c621246ca69e33c50800000000000000
+      internalID: 6643910520103637612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_102
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 48
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3eb084b38417d0800000000000000
+      internalID: -2948587044743529631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_103
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 48
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdea6557a36cf6480800000000000000
+      internalID: -8903679983909163301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_104
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ceb12506e535480800000000000000
+      internalID: -8911675469848646636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_105
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 48
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845b283a54170ce60800000000000000
+      internalID: 7980503083610453320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_106
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7adafbd270bb0f0800000000000000
+      internalID: -1100277790891202616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_107
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 48
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01316f3ad5e68e10800000000000000
+      internalID: 2199698193546031374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_108
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 48
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f9a70558c8905a0800000000000000
+      internalID: -6554553278452293801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_109
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 48
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfbd455611b94a0800000000000000
+      internalID: -6585650903186145914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_110
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b75eab766ef1620800000000000000
+      internalID: 2747167630910913318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_111
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f251c5a2b94804ec0800000000000000
+      internalID: -3584719501421439697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_112
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 48
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6af9cf31993aa40800000000000000
+      internalID: 5378310691132253946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_113
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 48
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a4ee05cf8f8e290800000000000000
+      internalID: -7860759387001959842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_114
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 48
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8132e4c5b0a6b90800000000000000
+      internalID: -7247968159223572286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_115
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 44
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ecf888cafddf690800000000000000
+      internalID: -7566645866794070504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_116
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 48
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059852a2427049de0800000000000000
+      internalID: -1327428138260133552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_117
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 48
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a274adf9ab30260800000000000000
+      internalID: 7062693836371733044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_118
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 48
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb8bed86ead41310800000000000000
+      internalID: 1374964470013201359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_119
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b29d3becd39680800000000000000
+      internalID: -8749406748142290933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_120
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 48
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d687b2b223d802780800000000000000
+      internalID: -8709806432722388883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_121
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 48
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da7868481806620800000000000000
+      internalID: 2765352577398189434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_122
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 49
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca0ff754cdc97a0800000000000000
+      internalID: -6368973581951390483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_123
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 49
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cec458bd6024ce0800000000000000
+      internalID: -1422566992391639935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_124
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 49
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c733ae89f7c300800000000000000
+      internalID: 272460693498217786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uniempresarial-blanco_125
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 49
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9cc629c7860b730800000000000000
+      internalID: 4012822152228948417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uniempresarial-blanco_0: -6998426347418568573
+      uniempresarial-blanco_1: -8956564855842607035
+      uniempresarial-blanco_10: -5978917413729956828
+      uniempresarial-blanco_100: -4923534975894665212
+      uniempresarial-blanco_101: 6643910520103637612
+      uniempresarial-blanco_102: -2948587044743529631
+      uniempresarial-blanco_103: -8903679983909163301
+      uniempresarial-blanco_104: -8911675469848646636
+      uniempresarial-blanco_105: 7980503083610453320
+      uniempresarial-blanco_106: -1100277790891202616
+      uniempresarial-blanco_107: 2199698193546031374
+      uniempresarial-blanco_108: -6554553278452293801
+      uniempresarial-blanco_109: -6585650903186145914
+      uniempresarial-blanco_11: 6286977940596569747
+      uniempresarial-blanco_110: 2747167630910913318
+      uniempresarial-blanco_111: -3584719501421439697
+      uniempresarial-blanco_112: 5378310691132253946
+      uniempresarial-blanco_113: -7860759387001959842
+      uniempresarial-blanco_114: -7247968159223572286
+      uniempresarial-blanco_115: -7566645866794070504
+      uniempresarial-blanco_116: -1327428138260133552
+      uniempresarial-blanco_117: 7062693836371733044
+      uniempresarial-blanco_118: 1374964470013201359
+      uniempresarial-blanco_119: -8749406748142290933
+      uniempresarial-blanco_12: -1691962689175338730
+      uniempresarial-blanco_120: -8709806432722388883
+      uniempresarial-blanco_121: 2765352577398189434
+      uniempresarial-blanco_122: -6368973581951390483
+      uniempresarial-blanco_123: -1422566992391639935
+      uniempresarial-blanco_124: 272460693498217786
+      uniempresarial-blanco_125: 4012822152228948417
+      uniempresarial-blanco_13: -8484852631264497242
+      uniempresarial-blanco_14: 4325009433397401422
+      uniempresarial-blanco_15: 5355017596973929820
+      uniempresarial-blanco_16: 7836358857594515538
+      uniempresarial-blanco_17: 9153898582016295613
+      uniempresarial-blanco_18: 4700729847093250174
+      uniempresarial-blanco_19: 8089941471880207957
+      uniempresarial-blanco_2: 2719032563395775552
+      uniempresarial-blanco_20: 1843588033787601382
+      uniempresarial-blanco_21: -1416745721610165597
+      uniempresarial-blanco_22: 3453619206889450521
+      uniempresarial-blanco_23: -6056052126793115701
+      uniempresarial-blanco_24: -8439386843694738379
+      uniempresarial-blanco_25: 1438903462715088372
+      uniempresarial-blanco_26: -8205930655711485071
+      uniempresarial-blanco_27: -4590285479674282167
+      uniempresarial-blanco_28: -7399826859085689631
+      uniempresarial-blanco_29: 279653194874872743
+      uniempresarial-blanco_3: 2002207316054816068
+      uniempresarial-blanco_30: -4686366096058026387
+      uniempresarial-blanco_31: 7807657595485003355
+      uniempresarial-blanco_32: -2092342153525151222
+      uniempresarial-blanco_33: -413505405288206949
+      uniempresarial-blanco_34: -1786744468148500719
+      uniempresarial-blanco_35: 236752293121201259
+      uniempresarial-blanco_36: -8935004969138181647
+      uniempresarial-blanco_37: 6960641768297356631
+      uniempresarial-blanco_38: 6125542627053214765
+      uniempresarial-blanco_39: 8998191760979664343
+      uniempresarial-blanco_4: -1118473263104490833
+      uniempresarial-blanco_40: 589969885269395201
+      uniempresarial-blanco_41: 1860744979145861561
+      uniempresarial-blanco_42: -2923193735022173626
+      uniempresarial-blanco_43: 6963033211800381529
+      uniempresarial-blanco_44: -6569356396706594902
+      uniempresarial-blanco_45: 51820783117755551
+      uniempresarial-blanco_46: 3976825599778670188
+      uniempresarial-blanco_47: 5901027493623447488
+      uniempresarial-blanco_48: -3235254866466032499
+      uniempresarial-blanco_49: -2123693179984390722
+      uniempresarial-blanco_5: -4688748978736634683
+      uniempresarial-blanco_50: 849480007122174811
+      uniempresarial-blanco_51: 8723315046453835951
+      uniempresarial-blanco_52: 7301407876087028314
+      uniempresarial-blanco_53: -6890163033675275668
+      uniempresarial-blanco_54: 8699026314004048721
+      uniempresarial-blanco_55: -4252835766942165033
+      uniempresarial-blanco_56: -9183654018596201275
+      uniempresarial-blanco_57: 9046024604405623546
+      uniempresarial-blanco_58: -1044345482741542525
+      uniempresarial-blanco_59: 2603769763950222833
+      uniempresarial-blanco_6: 4053442731878580789
+      uniempresarial-blanco_60: 2523842342877983792
+      uniempresarial-blanco_61: -1334414622262345789
+      uniempresarial-blanco_62: 4714724587386202309
+      uniempresarial-blanco_63: -4902257532608605128
+      uniempresarial-blanco_64: -5995816210201242051
+      uniempresarial-blanco_65: 3258959823510935745
+      uniempresarial-blanco_66: -718767574029889255
+      uniempresarial-blanco_67: -6784085653426236793
+      uniempresarial-blanco_68: -964738546142978028
+      uniempresarial-blanco_69: -6154413730594995556
+      uniempresarial-blanco_7: -5072387993134780148
+      uniempresarial-blanco_70: -5357457629423444074
+      uniempresarial-blanco_71: -6555246018391082048
+      uniempresarial-blanco_72: 5247014019777035209
+      uniempresarial-blanco_73: 165523802945411407
+      uniempresarial-blanco_74: 5186377785831809033
+      uniempresarial-blanco_75: -5769214130665947815
+      uniempresarial-blanco_76: -7637316718611252581
+      uniempresarial-blanco_77: 1117064363029080113
+      uniempresarial-blanco_78: -764449607975484756
+      uniempresarial-blanco_79: 2904155321770263075
+      uniempresarial-blanco_8: 5910396265530660562
+      uniempresarial-blanco_80: 1375322078683677047
+      uniempresarial-blanco_81: -8479374002918544798
+      uniempresarial-blanco_82: -5879153506212554221
+      uniempresarial-blanco_83: -7754209353245818352
+      uniempresarial-blanco_84: 8923394971915269794
+      uniempresarial-blanco_85: 334447499355671197
+      uniempresarial-blanco_86: -3860084683055883791
+      uniempresarial-blanco_87: -1409307961654692027
+      uniempresarial-blanco_88: 457046707984952211
+      uniempresarial-blanco_89: -5150535239886565068
+      uniempresarial-blanco_9: -5312246768715689835
+      uniempresarial-blanco_90: -7619330227688264814
+      uniempresarial-blanco_91: 1638946118361671240
+      uniempresarial-blanco_92: -4246091786806380925
+      uniempresarial-blanco_93: 6421869348882831438
+      uniempresarial-blanco_94: 3072441477413596274
+      uniempresarial-blanco_95: -8037274828149283060
+      uniempresarial-blanco_96: -1995857904502658380
+      uniempresarial-blanco_97: -7578774555731118476
+      uniempresarial-blanco_98: 2072392112279306691
+      uniempresarial-blanco_99: 4793591892178383953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

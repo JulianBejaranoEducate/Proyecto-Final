@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 8533f80f02caf81449fa3e6a537f915c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6334431401576423564
+    second: Uniempresarial_0
+  - first:
+      213: -5666588523340237398
+    second: Uniempresarial_1
+  - first:
+      213: 7725769372249177531
+    second: Uniempresarial_2
+  - first:
+      213: 2951548030245596478
+    second: Uniempresarial_3
+  - first:
+      213: -5465779347812940441
+    second: Uniempresarial_4
+  - first:
+      213: -2036596328481258531
+    second: Uniempresarial_5
+  - first:
+      213: 1802639406959876710
+    second: Uniempresarial_6
+  - first:
+      213: -5886244531170612744
+    second: Uniempresarial_7
+  - first:
+      213: -1697271704858291369
+    second: Uniempresarial_8
+  - first:
+      213: -7685141661343451003
+    second: Uniempresarial_9
+  - first:
+      213: -6899550927046309548
+    second: Uniempresarial_10
+  - first:
+      213: 5046157281482092548
+    second: Uniempresarial_11
+  - first:
+      213: -6800460854758866562
+    second: Uniempresarial_12
+  - first:
+      213: 1782532384230428962
+    second: Uniempresarial_13
+  - first:
+      213: 3308693059729635397
+    second: Uniempresarial_14
+  - first:
+      213: 8864695772374565527
+    second: Uniempresarial_15
+  - first:
+      213: -2443765293733701002
+    second: Uniempresarial_16
+  - first:
+      213: -4402621212931005922
+    second: Uniempresarial_17
+  - first:
+      213: 2507677005407749610
+    second: Uniempresarial_18
+  - first:
+      213: -4920013674878500756
+    second: Uniempresarial_19
+  - first:
+      213: -2416585386581943781
+    second: Uniempresarial_20
+  - first:
+      213: 4961570440149993808
+    second: Uniempresarial_21
+  - first:
+      213: -5165355863816735946
+    second: Uniempresarial_22
+  - first:
+      213: -20607835551083673
+    second: Uniempresarial_23
+  - first:
+      213: -2852065577373709880
+    second: Uniempresarial_24
+  - first:
+      213: 1483640621903844764
+    second: Uniempresarial_25
+  - first:
+      213: 9066268685481337379
+    second: Uniempresarial_26
+  - first:
+      213: -5660054839033055670
+    second: Uniempresarial_27
+  - first:
+      213: 6984671645510970847
+    second: Uniempresarial_28
+  - first:
+      213: -6847786029225721057
+    second: Uniempresarial_29
+  - first:
+      213: 5310769294827821861
+    second: Uniempresarial_30
+  - first:
+      213: 3604314771834938028
+    second: Uniempresarial_31
+  - first:
+      213: -771526847420544682
+    second: Uniempresarial_32
+  - first:
+      213: -6786789829542619160
+    second: Uniempresarial_33
+  - first:
+      213: 3263247861873137459
+    second: Uniempresarial_34
+  - first:
+      213: 5887487311755113801
+    second: Uniempresarial_35
+  - first:
+      213: 5795540750723559032
+    second: Uniempresarial_36
+  - first:
+      213: 1935250340573653558
+    second: Uniempresarial_37
+  - first:
+      213: 8676648800098602510
+    second: Uniempresarial_38
+  - first:
+      213: -7595552201562624468
+    second: Uniempresarial_39
+  - first:
+      213: 4531445751079075684
+    second: Uniempresarial_40
+  - first:
+      213: -742487225630407019
+    second: Uniempresarial_41
+  - first:
+      213: 4661555272386846188
+    second: Uniempresarial_42
+  - first:
+      213: 265561746134829013
+    second: Uniempresarial_43
+  - first:
+      213: 1755543089860281105
+    second: Uniempresarial_44
+  - first:
+      213: 3723059782289799783
+    second: Uniempresarial_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Uniempresarial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ea096ccb68e750800000000000000
+      internalID: 6334431401576423564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 8
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5fff9c2cb3c51b0800000000000000
+      internalID: -5666588523340237398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd3189af42773b60800000000000000
+      internalID: 7725769372249177531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 102
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dea48ab4106f820800000000000000
+      internalID: 2951548030245596478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 102
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76581f064a6a524b0800000000000000
+      internalID: -5465779347812940441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3820afd6e8cb3e0800000000000000
+      internalID: -2036596328481258531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad6f56df2440910800000000000000
+      internalID: 1802639406959876710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 54
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96d7a19cbdf4ea0800000000000000
+      internalID: -5886244531170612744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 55
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753999080641278e0800000000000000
+      internalID: -1697271704858291369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 82
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588711b6064e85590800000000000000
+      internalID: -7685141661343451003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45900bbbcfedf30a0800000000000000
+      internalID: -6899550927046309548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 54
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400bd73df4d870640800000000000000
+      internalID: 5046157281482092548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 55
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71062b02e8ef91a0800000000000000
+      internalID: -6800460854758866562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 47
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2215faa52c3dcb810800000000000000
+      internalID: 1782532384230428962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 55
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5483cffbec6daed20800000000000000
+      internalID: 3308693059729635397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 54
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920b4a76d9b50b70800000000000000
+      internalID: 8864695772374565527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 54
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1398b960061ed0800000000000000
+      internalID: -2443765293733701002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 54
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e5aa355fb6e2c0800000000000000
+      internalID: -4402621212931005922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 55
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae58ebe33fe0dc220800000000000000
+      internalID: 2507677005407749610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 82
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c608dca41a998bbb0800000000000000
+      internalID: -4920013674878500756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 55
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a126ff460967ed0800000000000000
+      internalID: -2416585386581943781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 54
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059083d170a0bd440800000000000000
+      internalID: 4961570440149993808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 55
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633f8b68538f058b0800000000000000
+      internalID: -5165355863816735946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 48
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76353626849c6bff0800000000000000
+      internalID: -20607835551083673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 59
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94580e77d6b68d0800000000000000
+      internalID: -2852065577373709880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 59
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951be2f843f69410800000000000000
+      internalID: 1483640621903844764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_26
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 59
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ec54955bd1dd70800000000000000
+      internalID: 9066268685481337379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 28
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463436bc127371b0800000000000000
+      internalID: -5660054839033055670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddac6fead98ee060800000000000000
+      internalID: 6984671645510970847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 28
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f134e1633e6c7f0a0800000000000000
+      internalID: -6847786029225721057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 28
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b93463984a3b940800000000000000
+      internalID: 5310769294827821861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 28
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22ae14039150230800000000000000
+      internalID: 3604314771834938028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 28
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65942d48b6cfa45f0800000000000000
+      internalID: -771526847420544682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 28
+        width: 69
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7d0e4ab9a70d1a0800000000000000
+      internalID: -6786789829542619160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 28
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337500514a2694d20800000000000000
+      internalID: 3263247861873137459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 28
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94578cc448e84b150800000000000000
+      internalID: 5887487311755113801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 24
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ead205b95ed6050800000000000000
+      internalID: 5795540750723559032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 28
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa85d6ee36bda10800000000000000
+      internalID: 1935250340573653558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_38
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 28
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e42b2ec16a96870800000000000000
+      internalID: 8676648800098602510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_39
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6ce0048d279690800000000000000
+      internalID: -7595552201562624468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 36
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f7508e6ede2ee30800000000000000
+      internalID: 4531445751079075684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_41
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 36
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c80a5dc722b5f0800000000000000
+      internalID: -742487225630407019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_42
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 36
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced977f72db21b040800000000000000
+      internalID: 4661555272386846188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 12
+        width: 126
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d78c4840077fa300800000000000000
+      internalID: 265561746134829013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_44
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 14
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11383039321fc5810800000000000000
+      internalID: 1755543089860281105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uniempresarial_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 10
+        width: 80
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a3de87527faa330800000000000000
+      internalID: 3723059782289799783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Uniempresarial_0: 6334431401576423564
+      Uniempresarial_1: -5666588523340237398
+      Uniempresarial_10: -6899550927046309548
+      Uniempresarial_11: 5046157281482092548
+      Uniempresarial_12: -6800460854758866562
+      Uniempresarial_13: 1782532384230428962
+      Uniempresarial_14: 3308693059729635397
+      Uniempresarial_15: 8864695772374565527
+      Uniempresarial_16: -2443765293733701002
+      Uniempresarial_17: -4402621212931005922
+      Uniempresarial_18: 2507677005407749610
+      Uniempresarial_19: -4920013674878500756
+      Uniempresarial_2: 7725769372249177531
+      Uniempresarial_20: -2416585386581943781
+      Uniempresarial_21: 4961570440149993808
+      Uniempresarial_22: -5165355863816735946
+      Uniempresarial_23: -20607835551083673
+      Uniempresarial_24: -2852065577373709880
+      Uniempresarial_25: 1483640621903844764
+      Uniempresarial_26: 9066268685481337379
+      Uniempresarial_27: -5660054839033055670
+      Uniempresarial_28: 6984671645510970847
+      Uniempresarial_29: -6847786029225721057
+      Uniempresarial_3: 2951548030245596478
+      Uniempresarial_30: 5310769294827821861
+      Uniempresarial_31: 3604314771834938028
+      Uniempresarial_32: -771526847420544682
+      Uniempresarial_33: -6786789829542619160
+      Uniempresarial_34: 3263247861873137459
+      Uniempresarial_35: 5887487311755113801
+      Uniempresarial_36: 5795540750723559032
+      Uniempresarial_37: 1935250340573653558
+      Uniempresarial_38: 8676648800098602510
+      Uniempresarial_39: -7595552201562624468
+      Uniempresarial_4: -5465779347812940441
+      Uniempresarial_40: 4531445751079075684
+      Uniempresarial_41: -742487225630407019
+      Uniempresarial_42: 4661555272386846188
+      Uniempresarial_43: 265561746134829013
+      Uniempresarial_44: 1755543089860281105
+      Uniempresarial_45: 3723059782289799783
+      Uniempresarial_5: -2036596328481258531
+      Uniempresarial_6: 1802639406959876710
+      Uniempresarial_7: -5886244531170612744
+      Uniempresarial_8: -1697271704858291369
+      Uniempresarial_9: -7685141661343451003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
