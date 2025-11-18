@@ -2,15 +2,114 @@ using UnityEngine;
 
 public class Esqueleto : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [Header("Configuración de Movimiento")]
+    public float velocidadPatrulla = 2f;
+    public float velocidadPersecucion = 3.5f;
+
+    [Header("Puntos de Patrulla")]
+    public Transform puntoA;
+    public Transform puntoB;
+
+    [Header("Detección y Ataque")]
+    public Transform jugador;
+    public float distanciaDeteccion = 5f;
+    public float distanciaAtaque = 1f;
+
+    private Animator animator;
+    private Transform puntoDestinoActual;
+    private bool estaAtacando = false;
+
     void Start()
     {
-        
+        animator = GetComponent<Animator>();
+        puntoDestinoActual = puntoB;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        // Si el jugador muere o no existe, no hacemos nada
+        if (jugador == null) return;
+
+        // Calculamos la distancia entre el esqueleto y el jugador
+        float distanciaAlJugador = Vector2.Distance(transform.position, jugador.position);
+
+        // --- LÓGICA DE ESTADOS ---
+
+        // 1. ESTADO DE ATAQUE (Muy cerca)
+        if (distanciaAlJugador < distanciaAtaque)
+        {
+            Atacar();
+        }
+        // 2. ESTADO DE PERSECUCIÓN (Cerca, pero no suficiente para pegar)
+        else if (distanciaAlJugador < distanciaDeteccion)
+        {
+            PerseguirJugador();
+        }
+        // 3. ESTADO DE PATRULLA (Jugador lejos)
+        else
+        {
+            Patrullar();
+        }
+    }
+
+    void Patrullar()
+    {
+        if (estaAtacando) return; // Si está atacando, no se mueve
+
+        // Activar animación de caminar
+        animator.SetBool("IsWalking", true);
+
+        // Moverse hacia el punto de destino actual (A o B)
+        transform.position = Vector2.MoveTowards(transform.position, puntoDestinoActual.position, velocidadPatrulla * Time.deltaTime);
+
+        // Mirar hacia el objetivo
+        Girar(puntoDestinoActual.position);
+
+        // Si llegamos al punto, cambiamos al otro
+        if (Vector2.Distance(transform.position, puntoDestinoActual.position) < 0.2f)
+        {
+            if (puntoDestinoActual == puntoA) puntoDestinoActual = puntoB;
+            else puntoDestinoActual = puntoA;
+        }
+    }
+
+    void PerseguirJugador()
+    {
+        if (estaAtacando) return;
+
+        animator.SetBool("IsWalking", true);
+
+        transform.position = Vector2.MoveTowards(transform.position, jugador.position, velocidadPersecucion * Time.deltaTime);
+
+        Girar(jugador.position);
+    }
+
+    void Atacar()
+    {
+        AnimatorStateInfo estadoInfo = animator.GetCurrentAnimatorStateInfo(0);
+        if (estadoInfo.IsName("Attack1")) return;
+
+        animator.SetBool("IsWalking", false);
+        animator.SetTrigger("Attack");
+    }
+
+    void Girar(Vector3 objetivo)
+    {
+        if (objetivo.x > transform.position.x)
+        {
+            transform.localScale = new Vector3(1, 1, 1);
+        }
+        else
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, distanciaDeteccion);
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, distanciaAtaque);
     }
 }
