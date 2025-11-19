@@ -15,14 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Nivel1.unity
     guid: 2c4ab3641aeb562459434951b5584099
   - enabled: 1
-    path: Assets/Scenes/Nivel2.unity
-    guid: 66305a8e41b4d6e46aa9dcd97b578d32
-  - enabled: 1
     path: Assets/Scenes/Victoria.unity
-    guid: 89da41cf0e390874eb813b593df1e2be
+    guid: 089c4357ff93691479b2ee8457f7438c
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
-    guid: 03270a50ccb8a434795398022c54482e
+    guid: efc6645f8d3afb442886962168c76b78
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

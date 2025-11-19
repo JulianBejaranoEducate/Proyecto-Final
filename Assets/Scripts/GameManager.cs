@@ -9,6 +9,6 @@ public class GameManager : MonoBehaviour
     public void SumarPuntos(int puntos)
     {
         puntosMonedas = puntosMonedas + puntos;
-        print(puntosMonedas);
+        print("Monedas: " + puntosMonedas);
     }
 }

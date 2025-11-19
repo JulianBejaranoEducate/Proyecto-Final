@@ -19,6 +19,9 @@ public class Esqueleto : MonoBehaviour
     private Transform puntoDestinoActual;
     private bool estaAtacando = false;
 
+    private float tiempoSiguienteAtaque = 0f;
+    public float cooldownAtaque = 1.5f; // Tiempo entre espadazos
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -27,25 +30,28 @@ public class Esqueleto : MonoBehaviour
 
     void Update()
     {
-        // Si el jugador muere o no existe, no hacemos nada
         if (jugador == null) return;
 
-        // Calculamos la distancia entre el esqueleto y el jugador
+        // Reducimos el contador de tiempo
+        if (tiempoSiguienteAtaque > 0)
+            tiempoSiguienteAtaque -= Time.deltaTime;
+
         float distanciaAlJugador = Vector2.Distance(transform.position, jugador.position);
 
-        // --- LÓGICA DE ESTADOS ---
-
-        // 1. ESTADO DE ATAQUE (Muy cerca)
+        // Lógica de Ataque modificada
         if (distanciaAlJugador < distanciaAtaque)
         {
-            Atacar();
+            // Solo ataca si el contador llegó a 0
+            if (tiempoSiguienteAtaque <= 0)
+            {
+                Atacar();
+                tiempoSiguienteAtaque = cooldownAtaque; // Reiniciamos el contador
+            }
         }
-        // 2. ESTADO DE PERSECUCIÓN (Cerca, pero no suficiente para pegar)
         else if (distanciaAlJugador < distanciaDeteccion)
         {
             PerseguirJugador();
         }
-        // 3. ESTADO DE PATRULLA (Jugador lejos)
         else
         {
             Patrullar();
@@ -86,11 +92,17 @@ public class Esqueleto : MonoBehaviour
 
     void Atacar()
     {
-        AnimatorStateInfo estadoInfo = animator.GetCurrentAnimatorStateInfo(0);
-        if (estadoInfo.IsName("Attack1")) return;
-
+        // Lógica visual (Animación)
         animator.SetBool("IsWalking", false);
         animator.SetTrigger("Attack");
+
+        // Lógica de Daño (NUEVO)
+        // Buscamos el script de vida en el jugador y le restamos 1
+        VidaJugador vidaScript = jugador.GetComponent<VidaJugador>();
+        if (vidaScript != null)
+        {
+            vidaScript.RecibirDano(1);
+        }
     }
 
     void Girar(Vector3 objetivo)

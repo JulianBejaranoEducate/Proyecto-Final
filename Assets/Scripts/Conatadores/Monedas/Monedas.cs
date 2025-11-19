@@ -11,6 +11,7 @@ public class Monedas : MonoBehaviour
         {
             gameManager.SumarPuntos(valor);
             Destroy(this.gameObject);
+            //Debug.Log("La moneda se esta destruyendo");
         }
     }
 }
