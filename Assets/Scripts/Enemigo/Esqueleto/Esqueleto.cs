@@ -60,22 +60,27 @@ public class Esqueleto : MonoBehaviour
 
     void Patrullar()
     {
-        if (estaAtacando) return; // Si está atacando, no se mueve
+        if (estaAtacando) return;
 
-        // Activar animación de caminar
+        // Activar animación
         animator.SetBool("IsWalking", true);
 
-        // Moverse hacia el punto de destino actual (A o B)
-        transform.position = Vector2.MoveTowards(transform.position, puntoDestinoActual.position, velocidadPatrulla * Time.deltaTime);
+        Vector2 objetivoEnSuelo = new Vector2(puntoDestinoActual.position.x, transform.position.y);
 
-        // Mirar hacia el objetivo
+        transform.position = Vector2.MoveTowards(transform.position, objetivoEnSuelo, velocidadPatrulla * Time.deltaTime);
+
         Girar(puntoDestinoActual.position);
 
-        // Si llegamos al punto, cambiamos al otro
-        if (Vector2.Distance(transform.position, puntoDestinoActual.position) < 0.2f)
+        if (Mathf.Abs(transform.position.x - puntoDestinoActual.position.x) < 0.5f)
         {
-            if (puntoDestinoActual == puntoA) puntoDestinoActual = puntoB;
-            else puntoDestinoActual = puntoA;
+            if (puntoDestinoActual == puntoA)
+            {
+                puntoDestinoActual = puntoB;
+            }
+            else
+            {
+                puntoDestinoActual = puntoA;
+            }
         }
     }
 
@@ -96,8 +101,7 @@ public class Esqueleto : MonoBehaviour
         animator.SetBool("IsWalking", false);
         animator.SetTrigger("Attack");
 
-        // Lógica de Daño (NUEVO)
-        // Buscamos el script de vida en el jugador y le restamos 1
+        // Lógica de Daño, el script de vida en el jugador y le restamos 1
         VidaJugador vidaScript = jugador.GetComponent<VidaJugador>();
         if (vidaScript != null)
         {

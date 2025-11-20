@@ -8,6 +8,15 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
 
+    [Header("Combate")]
+    public Transform puntoAtaque; // Arrastra aquí el objeto vacío "PuntoAtaque"
+    public float radioAtaque = 0.5f; // Tamaño del círculo
+    public LayerMask capaEnemigos;   // Selecciona aquí la capa "Enemigos"
+    public int danoAtaque = 1;
+
+    public float tiempoEntreAtaques = 0.5f;
+    private float tiempoSiguienteAtaque = 0f;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -16,17 +25,12 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        // 1. MOVIMIENTO (Izquierda / Derecha)
         float movimientoHorizontal = Input.GetAxisRaw("Horizontal"); // Detecta teclas A/D o Flechas
 
-        // Aplicamos movimiento físico
         rb.linearVelocity = new Vector2(movimientoHorizontal * velocidadMovimiento, rb.linearVelocity.y);
 
-        // 2. ANIMACIÓN DE CORRER
-        // Mathf.Abs convierte el valor a positivo (si vas a la izquierda es -1, lo convierte a 1)
         animator.SetFloat("Speed", Mathf.Abs(movimientoHorizontal));
 
-        // 3. GIRAR EL PERSONAJE (Flip)
         if (movimientoHorizontal > 0) // Derecha
         {
             transform.localScale = new Vector3(1, 1, 1);
@@ -36,25 +40,58 @@ public class Player : MonoBehaviour
             transform.localScale = new Vector3(-1, 1, 1);
         }
 
-        // 4. SALTAR
-        // Si presionas Espacio Y la velocidad vertical es casi 0 (estás en el suelo)
         bool enElSuelo = Mathf.Abs(rb.linearVelocity.y) < 0.001f;
 
-        // Le avisamos al Animator si estamos en el suelo o no
         animator.SetBool("IsGrounded", enElSuelo);
 
-        // 4. SALTAR (Modificado ligeramente para usar la variable enElSuelo)
         if (Input.GetButtonDown("Jump") && enElSuelo)
         {
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
             animator.SetTrigger("Jump");
         }
 
-        // 5. RODAR (Roll)
-        // Usaremos la tecla Shift Izquierdo (LeftShift) o la tecla "C"
         if (Input.GetKeyDown(KeyCode.C))
         {
             animator.SetTrigger("Roll");
         }
+
+        // TEMPORIZADOR DE ATAQUE
+        if (tiempoSiguienteAtaque > 0)
+        {
+            tiempoSiguienteAtaque -= Time.deltaTime;
+        }
+
+        // DETECTAR CLIC IZQUIERDO O TECLA CONTROL
+        if (Input.GetButtonDown("Fire1") && tiempoSiguienteAtaque <= 0)
+        {
+            Atacar();
+            tiempoSiguienteAtaque = tiempoEntreAtaques;
+        }
+    }
+
+    void Atacar()
+    {
+        animator.SetTrigger("Attack");
+
+        Collider2D[] enemigosGolpeados = Physics2D.OverlapCircleAll(puntoAtaque.position, radioAtaque, capaEnemigos);
+
+        foreach (Collider2D enemigo in enemigosGolpeados)
+        {
+            Debug.Log("Golpeaste a: " + enemigo.name);
+
+            VidaEnemigo vidaScript = enemigo.GetComponent<VidaEnemigo>();
+
+            if (vidaScript != null)
+            {
+                vidaScript.RecibirDano(danoAtaque);
+            }
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (puntoAtaque == null) return;
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(puntoAtaque.position, radioAtaque);
     }
 }
