@@ -1,4 +1,4 @@
-# Nombre de tu Videojuego
+# Nombre del Videojuego
 El Camino Estrecho
 
 ## Descripción Breve
