@@ -97,18 +97,18 @@ public class Esqueleto : MonoBehaviour
 
     void Atacar()
     {
-        // Lógica visual (Animación)
         animator.SetBool("IsWalking", false);
         animator.SetTrigger("Attack");
 
-        // Lógica de Daño, el script de vida en el jugador y le restamos 1
+        // Logia para el daño, el script de vida en el jugador y le restamos 1
         VidaJugador vidaScript = jugador.GetComponent<VidaJugador>();
         if (vidaScript != null)
         {
             vidaScript.RecibirDano(1);
         }
     }
-
+    6
+    // Le da dirección al personaje en la mapa
     void Girar(Vector3 objetivo)
     {
         if (objetivo.x > transform.position.x)

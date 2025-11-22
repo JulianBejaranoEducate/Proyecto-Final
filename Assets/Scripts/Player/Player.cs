@@ -9,9 +9,9 @@ public class Player : MonoBehaviour
     private Animator animator;
 
     [Header("Combate")]
-    public Transform puntoAtaque; // Arrastra aquí el objeto vacío "PuntoAtaque"
-    public float radioAtaque = 0.5f; // Tamaño del círculo
-    public LayerMask capaEnemigos;   // Selecciona aquí la capa "Enemigos"
+    public Transform puntoAtaque;
+    public float radioAtaque = 0.5f;
+    public LayerMask capaEnemigos;  
     public int danoAtaque = 1;
 
     public float tiempoEntreAtaques = 0.5f;
@@ -25,7 +25,7 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        float movimientoHorizontal = Input.GetAxisRaw("Horizontal"); // Detecta teclas A/D o Flechas
+        float movimientoHorizontal = Input.GetAxisRaw("Horizontal");
 
         rb.linearVelocity = new Vector2(movimientoHorizontal * velocidadMovimiento, rb.linearVelocity.y);
 
@@ -55,13 +55,13 @@ public class Player : MonoBehaviour
             animator.SetTrigger("Roll");
         }
 
-        // TEMPORIZADOR DE ATAQUE
+        // Temporizar el ataque 
         if (tiempoSiguienteAtaque > 0)
         {
             tiempoSiguienteAtaque -= Time.deltaTime;
         }
 
-        // DETECTAR CLIC IZQUIERDO O TECLA CONTROL
+        // Detectar la tecla control o clic izquierdo
         if (Input.GetButtonDown("Fire1") && tiempoSiguienteAtaque <= 0)
         {
             Atacar();
